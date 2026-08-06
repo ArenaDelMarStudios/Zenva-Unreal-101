@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# Unreal Engine
+Binaries/
+Build/*
+!Build/*.ico
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Packaging
+*.pdb
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
